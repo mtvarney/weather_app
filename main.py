@@ -1,4 +1,8 @@
 from display import Display
 
-display = Display()
-display.initial_display()
+def main():
+    display = Display()
+    display.initial_display()
+
+if __name__ == "__main__":
+    main()
