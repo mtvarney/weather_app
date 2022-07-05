@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "Ask for key"
+API_KEY = ""
 weather_params = {
     "units": "imperial",
 }
